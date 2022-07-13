@@ -7,14 +7,14 @@ Blockchain Docs is a documentation site built using [Tailwind CSS](https://tailw
 To get started with this documentation, first install the npm dependencies:
 
 ```bash
-yarn install or npm install
+npm install
 cp .env.example .env.local
 ```
 
 Next, run the development server:
 
 ```bash
-yarn dev or npm run dev
+npm run dev
 ```
 
 Finally, open [http://localhost:3000](http://localhost:3000) in your browser to view the documentation.
